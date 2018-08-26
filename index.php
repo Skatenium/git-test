@@ -6,6 +6,6 @@ echo "how does it work?";
 
 phpinfo();
 
-Added some junk
+// Commented out: Added some junk
 
 ?>
